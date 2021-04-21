@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Test Automation Engineer from India</h3>
 
 ![Profile views](https://gpvc.arturio.dev/pratikburde)  
-
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+ 
+<!--- ![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png) --->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pratikburde)](https://github.com/ryo-ma/github-profile-trophy)
 
